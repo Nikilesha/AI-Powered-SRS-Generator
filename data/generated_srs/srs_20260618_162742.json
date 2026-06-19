@@ -1,0 +1,31 @@
+{
+    "project_name": "Online Food Delivery Application",
+    "project_domain": "Food Delivery",
+    "stakeholders": [
+        "End-users",
+        "Admins",
+        "Restaurant Owners"
+    ],
+    "user_roles": [
+        "User",
+        "Admin"
+    ],
+    "functional_requirements": [
+        "User registration",
+        "User login",
+        "Restaurant search functionality",
+        "Food ordering capability",
+        "Delivery tracking system",
+        "Admin management of restaurants",
+        "Admin management of orders"
+    ],
+    "non_functional_requirements": [
+        "Support for 1000 concurrent users",
+        "99.9% system uptime guarantee"
+    ],
+    "assumptions": [
+        "Payment gateway integration is available",
+        "Restaurant data is provided by third-party partners"
+    ],
+    "constraints": []
+}

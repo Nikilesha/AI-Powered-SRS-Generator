@@ -1,0 +1,34 @@
+{
+    "project_name": "Online Food Delivery Application",
+    "project_domain": "Food Delivery Services",
+    "stakeholders": [
+        "Users",
+        "Admins",
+        "Business Owners"
+    ],
+    "user_roles": [
+        "User",
+        "Admin"
+    ],
+    "functional_requirements": [
+        "User registration functionality",
+        "User login functionality",
+        "Restaurant search functionality",
+        "Food ordering functionality",
+        "Delivery tracking functionality",
+        "Admin restaurant management",
+        "Admin order management"
+    ],
+    "non_functional_requirements": [
+        "Support 1000 concurrent users",
+        "Provide 99.9% uptime"
+    ],
+    "assumptions": [
+        "The system will have a database to store user and restaurant information",
+        "Third-party payment gateways will be integrated for transactions"
+    ],
+    "constraints": [
+        "System must support 1000 concurrent users",
+        "System must provide 99.9% uptime"
+    ]
+}
